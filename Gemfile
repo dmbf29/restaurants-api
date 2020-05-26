@@ -33,8 +33,9 @@ gem 'devise'
 gem 'autoprefixer-rails'
 gem 'faker'
 gem 'font-awesome-sass'
+gem 'pundit'
 gem 'simple_form'
-
+gem 'simple_token_authentication'
 
 group :development, :test do  gem 'pry-byebug'
   gem 'pry-rails'
